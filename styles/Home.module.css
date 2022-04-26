@@ -1,0 +1,61 @@
+.container {
+  width: 50%;
+}
+
+.category{
+  background-color: rgb(92, 91, 91);
+  color: white;
+  padding: 5px;
+}
+
+.btnStyle{
+  margin-top: 20px;
+  color: white;
+  background-color: #d69d20;
+  outline: none;
+  border: none;
+  right: 0px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.cardStyle{
+  border: 2px solid black;
+  background-color : #ccf2ff;
+  margin : 10px;
+  width : 30%;
+  display : inline-block;
+}
+
+.selectbtnStyle{
+  margin-top: 20px;
+  color: white;
+  background-color: rgb(92, 91, 91);
+  outline: none;
+  border: none;
+  right: 0px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.submitBtn{
+  text-align: right;
+}
+
+.con{
+  display: flex;
+  justify-content: center;
+}
+
+.closebtn{
+  border: none;
+  background-color: white;
+  outline: none;
+  position: absolute;
+  right: 20px;
+  top: 0px;
+}
